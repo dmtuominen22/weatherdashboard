@@ -27,11 +27,17 @@ header h1 {
   margin-top: 0.5cm;
   cursor: pointer;
   text-align: center;
-
-
 }
 
 #local-weather  {
   border: 1px solid black;
   padding: 1em;
+}
+
+.fiveday {
+  border: 1px solid black;
+  padding: 0.5em;
+  background-color:rgba(72, 41, 158, 0.7);
+  margin-top: 1.5em;
+  margin-left: 1.4em;
 }
