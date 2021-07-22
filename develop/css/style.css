@@ -5,11 +5,11 @@ body {
     line-height: 1;
   }
   
-nav {
-font-size: 36px;
+.navbar {
+font-size: 45px;
+color: white;
 text-align: center;
 background-color: aquamarine;
-
 }
 
 
