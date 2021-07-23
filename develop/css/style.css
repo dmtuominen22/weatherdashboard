@@ -1,8 +1,7 @@
-
 body {
-    font-family: 'Open Sans', sans-serif;
-      }
-  
+  font-family: "Times New Roman", Times, serif;
+}
+
 header h1 {
   font-weight: bold;
   margin: 55px;
@@ -14,7 +13,6 @@ header h1 {
 }
 
 .left-side {
- 
   color: rgba(72, 41, 158, 0.7);
   padding: 1em;
 }
@@ -27,9 +25,11 @@ header h1 {
   margin-top: 0.5cm;
   cursor: pointer;
   text-align: center;
+  font-weight: bold;
+  font-size: 20px;
 }
 
-#local-weather  {
+#local-weather {
   border: 1px solid black;
   padding: 1em;
 }
@@ -37,7 +37,7 @@ header h1 {
 .fiveday {
   border: 1px solid black;
   padding: 0.5em;
-  background-color:rgba(72, 41, 158, 0.7);
+  background-color: rgba(72, 41, 158, 0.7);
   margin-top: 1.5em;
   margin-left: 1.4em;
 }
