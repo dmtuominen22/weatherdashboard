@@ -36,8 +36,9 @@ header h1 {
 
 .fiveday {
   border: 1px solid black;
-  padding: 0.5em;
+  padding: 0.4em;
   background-color: rgba(72, 41, 158, 0.7);
   margin-top: 1.5em;
-  margin-left: 1.4em;
+  margin-left: 1.5em;
+  font-size: 15px;
 }
