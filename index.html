@@ -8,7 +8,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" />
-  <link rel="stylesheet" type="text/css" href="./develop/css/style.css">
+  <link rel="stylesheet" type="text/css" href="./asset/css/style.css">
 </head>
 
 <body>
@@ -21,16 +21,20 @@
       <div class="col-md-4 leftSside">
         <div id="search">
           <h3>Search for a City:</h3>
-          <input class="form-control form-control-lg" type="text" placeholder="Enter City">
+          <input id="saveCity" class="form-control form-control-lg" type="text" placeholder="Enter City">
         </div>
         <div id="searchBtn">Search</div>
+     <hr>
+       
+        <div id="'searchedCity"'> </div> 
+        
       </div>
 
       <div class="col-md-8 rightSide">
         <div id="localWeather">
-          <h4><span id="localCity"></span> <span id="localDate"></span>
+          <h4><span id="localCity"></span> <span id="localDate"></span> <span id="localIcon"></span>
           </h4><br>
-          <p>Temperature: <spand id="localTemp"></spand> &deg; F</p>
+                <p>Temperature: <spand id="localTemp"></spand> &deg; F</p>
           <p>Wind Speed: <spand id="localWind"></spand> Mph</p>
           <p>Humidity: <spand id="localHumid"></spand>%</p>
           <p>UV Index: <spand id="localUvi"></spand>
@@ -85,7 +89,7 @@
           </div>
         </div>
 
-        <script src="./develop/js/script.js"></script>
+        <script src="./asset/js/script.js"></script>
 </body>
 
 </html>
