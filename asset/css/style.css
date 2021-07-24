@@ -29,6 +29,18 @@ header h1 {
   font-size: 20px;
 }
 
+#results {
+    margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#results li {
+  background-color: rgba(84, 109, 224, 0.7);
+  padding: 0.5em;
+  margin-top: 0.5em;
+ }
+
 #localWeather {
   border: 1px solid black;
   padding: 1em;
@@ -42,3 +54,29 @@ header h1 {
   margin-left: 1.5em;
   font-size: 15px;
 }
+
+.low {
+  background-color: green;
+  color: black;
+}
+
+.med {
+  background-color: yellow;
+  color:black;
+}
+
+.high {
+  background-color: orange;
+  color: black;
+}
+
+.veryHigh {
+  background-color: red;
+  color:black;
+}
+
+.exHigh {
+  background-color: purple;
+  color:black;
+}
+
