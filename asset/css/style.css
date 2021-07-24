@@ -1,4 +1,5 @@
-font-family: "Times New Roman", Times, serif;
+body {
+  font-family: "Times New Roman", Times, serif;
 }
 
 header h1 {
