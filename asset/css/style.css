@@ -56,27 +56,32 @@ header h1 {
 }
 
 .low {
-  background-color: green;
+  background-color: rgb(128, 235, 128);
   color: black;
+  font-weight: bold;
 }
 
 .med {
-  background-color: yellow;
+  background-color: rgb(226, 226, 75);
   color:black;
+  font-weight: bold;
 }
 
 .high {
-  background-color: orange;
+  background-color: rgb(241, 179, 64);
   color: black;
+  font-weight: bold;
 }
 
 .veryHigh {
-  background-color: red;
+  background-color: rgb(231, 50, 50);
   color:black;
+  font-weight: bold;
 }
 
 .exHigh {
-  background-color: purple;
+  background-color: rgb(189, 36, 189);
   color:black;
+  font-weight: bold;
 }
 
