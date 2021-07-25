@@ -23,6 +23,6 @@ https://github.com/dmtuominen22/weatherdashboard
 ## Contribution
 Made by Denise Tuominen
 
-//need to put in image here
+![image](https://user-images.githubusercontent.com/84994258/126884819-e99c9acf-f165-4111-8874-62ce162fc18f.png)
 
 ### ©️2021 
